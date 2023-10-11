@@ -1,4 +1,19 @@
 body {
-	background-color: lightskyblue;
-	font-family: Courier New
+	background-color:dodgerblue;
+	font-family: 'Courier New', Courier, monospace;
+}
+h1{
+	color:whitesmoke;
+	text-align: center;
+}
+
+.assign {
+	margin: 10px;
+	padding: 10px;
+	background-color:darkred;
+	display: flex;
+}
+.assign img {
+	width: 200px;
+	padding: 10px;
 }
